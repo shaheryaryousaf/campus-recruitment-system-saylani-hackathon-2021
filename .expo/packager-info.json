@@ -1,0 +1,10 @@
+{
+  "expoServerNgrokUrl": "https://6g-x9v.shaheryar11.campus-recruitment.exp.direct",
+  "packagerNgrokUrl": "https://packager.6g-x9v.shaheryar11.campus-recruitment.exp.direct",
+  "ngrokPid": 23884,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 18652,
+  "webpackServerPort": 19006,
+  "devToolsPort": 19002
+}
